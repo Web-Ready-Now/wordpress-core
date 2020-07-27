@@ -4,9 +4,9 @@
 * @package yariko
 
 
-Plugin Name:  Plugin Name
+Plugin Name:  Lang Plugin
 Plugin URI:   https://www.webreadynow.com/plugin-page
-Description:  Description Here
+Description:  I can change a plugin description over here
 Version:      1.0.1
 Author:       Web Ready Now
 Author URI:   https://webreadynow.com/
