@@ -4,7 +4,7 @@
 * @package yariko
 
 
-Plugin Name:  Lang Plugin
+Plugin Name:  Kick Start Plugin Boileplate
 Plugin URI:   https://www.webreadynow.com/plugin-page
 Description:  I can change a plugin description over here
 Version:      1.0.1
